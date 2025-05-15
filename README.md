@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @uchihawh3zzard
 - 👀 I’m interested in studying
 - 🌱 I’m currently learning Python and Django
-- 📫 How to reach me: Telegram - @byebyewh3zzard9)
+- 📫 How to reach me: Telegram - @byebyewh3zzard9
+  
 - ⚡ Fun fact: ex-semi pro player in Valorant :D
 
 <!---
